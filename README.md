@@ -14,11 +14,17 @@ Linux: Run palace_coups.sh
 —————————————————————————————————————————————————
 
 Left Click/Enter - Progress dialogue, select options
+
 Space           - Skip read dialogue
+
 Esc/Right Click - Game menu
+
 Ctrl            - Skip text (hold)
+
 F               - Fullscreen
+
 S               - Quick save
+
 L               - Quick load
 
 —————————————————————————————————————————————————
