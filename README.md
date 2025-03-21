@@ -8,7 +8,9 @@ Palace coups is a historical period within the history of Russia.
 Requirements: Windows 7+, macOS 10.13+, or Linux; 2GB RAM; 500MB disk space
 
 Windows: Run palace_coups.exe
+
 macOS: Run palace_coups.app
+
 Linux: Run palace_coups.sh
 
 —————————————————————————————————————————————————
